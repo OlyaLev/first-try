@@ -21,6 +21,9 @@
 - Polish - B1
 
 ---
-
+####Education:
+_Belgorod Shukhov State Technology University_
+Industrial and civil constructions, Engineer's degree 
+2008 - 2013
 
 
