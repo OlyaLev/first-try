@@ -1,5 +1,4 @@
 # Olga Levchenko  
----
 ## Civil Engeneer  
 ---
 ## Contact information:  
@@ -32,4 +31,31 @@ if it necessary, I can work alone. I am highly organized and focused on my work.
 _Belgorod Shukhov State Technology University_  
 Industrial and civil constructions, Engineer's degree  
 
+---
+## Project Exaples:  
+[https://olyalev.github.io/rsschool-cv/](https://olyalev.github.io/rsschool-cv/)
+
+---
+## Code exaples:  
+```
+function comNum(val) { //Comparison of numbers function
+    if (val < 10){
+        return "False. Smaller than 10"
+    } else if (val > 20) {
+        return "False. Greater than 20"
+    } else {
+        return "True. Between 10 and 20"
+    }
+}
+comNum(15);
+console.log(comNum(15));
+``` 
+```
+const anArr = []; 
+for (let y = 1; y < 5; y++) { //Creating an array with loop
+    anArr.push(y)
+}
+console.log(anArr);
+```
+---
 
